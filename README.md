@@ -73,7 +73,7 @@ agents IA, de septembre 2025 à septembre 2026. Chaque entrée est datée et sou
 ## Me contacter
 
 - **LinkedIn** — [roy-titli](https://www.linkedin.com/in/roy-titli-6424ba384)
-- **Email** — [roy.titli119@gmail.com](mailto:roy.titli119@gmail.com)
+- **Email** — [roy.titlipro@gmail.com](mailto:roy.titlipro@gmail.com)
 - **GitHub** — [@roytitli119-design](https://github.com/roytitli119-design)
 
 Ouvert aux échanges autour du développement web, des bases de données et de la sécurité
