@@ -15,14 +15,14 @@ couche — c'est ce qui me sert le plus en alternance.
 ### 🚲 Fair'repair — plateforme de réservation de réparation de vélo
 
 PHP 8 · MySQL · MVC sans framework · PDO · Stripe · Leaflet
-**[→ Voir le code](https://github.com/roytitli119-design/Fairepair)**
+**[→ Voir le code](https://github.com/roytitli-pro/Fairepair)**
 
 Projet de synthèse de BTS SIO SLAM. Trois rôles — client, réparateur, modérateur — sur
 8 tables, 11 contrôleurs et environ 6 500 lignes de PHP.
 
 Architecture MVC écrite à la main, requêtes préparées PDO, mots de passe hachés en bcrypt,
 paiement Stripe, cartographie Leaflet, et huit mesures de sécurité documentées dans le
-[`GUIDE-CODE.md`](https://github.com/roytitli119-design/Fairepair/blob/main/GUIDE-CODE.md).
+[`GUIDE-CODE.md`](https://github.com/roytitli-pro/Fairepair/blob/main/GUIDE-CODE.md).
 
 ---
 
@@ -72,10 +72,10 @@ agents IA, de septembre 2025 à septembre 2026. Chaque entrée est datée et sou
 
 ## Me contacter
 
-- **Portfolio** — [roytitli119-design.github.io](https://roytitli119-design.github.io)
+- **Portfolio** — [roytitli-pro.github.io](https://roytitli-pro.github.io)
 - **LinkedIn** — [roy-titli](https://www.linkedin.com/in/roy-titli-6424ba384)
 - **Email** — [roy.titlipro@gmail.com](mailto:roy.titlipro@gmail.com)
-- **GitHub** — [@roytitli119-design](https://github.com/roytitli119-design)
+- **GitHub** — [@roytitli-pro](https://github.com/roytitli-pro)
 
 Ouvert aux échanges autour du développement web, des bases de données et de la sécurité
 applicative.
