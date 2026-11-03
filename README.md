@@ -1,4 +1,4 @@
-# Titli Roy
+# Roy TITLI
 
 **Étudiante en 2ᵉ année de BTS SIO — option SLAM, en alternance.**
 
@@ -72,6 +72,7 @@ agents IA, de septembre 2025 à septembre 2026. Chaque entrée est datée et sou
 
 ## Me contacter
 
+- **LinkedIn** — [roy-titli](https://www.linkedin.com/in/roy-titli-6424ba384)
 - **Email** — [roy.titli119@gmail.com](mailto:roy.titli119@gmail.com)
 - **GitHub** — [@roytitli119-design](https://github.com/roytitli119-design)
 
